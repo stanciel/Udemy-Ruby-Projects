@@ -1,0 +1,15 @@
+current directory: /Users/laurenstanciel/Desktop/ruby-projects/rails_projects_2020/sample_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+/Users/laurenstanciel/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/laurenstanciel/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200615-78940-1e4zpa8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/laurenstanciel/Desktop/ruby-projects/rails_projects_2020/sample_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/laurenstanciel/Desktop/ruby-projects/rails_projects_2020/sample_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/laurenstanciel/Desktop/ruby-projects/rails_projects_2020/sample_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20200615-78940-1f53cpi
